@@ -1,27 +1,14 @@
-## Welcome to GitHub Pages
+## Items under the Mixkit Stock Video Restricted License can be used in personal projects only.
 
-You can use the [editor on GitHub](https://github.com/flygearz/show/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This means you’re permitted to download, copy, modify, distribute and publicly perform Items in your personal projects. Your rights are non-exclusive, worldwide, sub-licensable and ongoing. Attribution is not required, however, we would appreciate it if you credit Mixkit where reasonably possible.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Personal projects are projects that are non-commercial in nature. They include:
 
-### Markdown
+- Projects for educational purposes
+- Projects displayed in private situations or on a non-commercial social media account
+ 
+Personal projects never:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- Attract a fee or payment for access or use
+- Appear in social media, marketing or an advertisement for a business or something that you sell or make money from (e.g. a monetized YouTube video)
+- Appear on internet-based video on demand services, television or radio broadcasts, or in a film
